@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: spring4AOP
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.estudo.aspectj
+Build-Jdk: 1.7.0_91
+Built-By: Alexander Silva
+Created-By: Maven Integration for Eclipse
+
